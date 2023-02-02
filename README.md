@@ -45,6 +45,6 @@ Open `index.py` then edit it with your credentials. You will need:
 
     $ python index.py
 
-## images 
+## images  
 
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHXlEdPrzb9eNNim8dK6gZY1mZjNnPNovhe_ObRQTtEMz4pJTmbxaJO1xbiLYOtAh5GL5BhlO0cIpfW93OYR4s2LIfansfYgvsYG3F57-zHncyaL1X-at_Wvqqt9ZYLtC6S5IXjmngnq0PJWVsooiKNPlQEwmumIC-cuQdc6HO9OhfrRPQFcCKNuN0/s2392/secretmanager-s3-python.png)
