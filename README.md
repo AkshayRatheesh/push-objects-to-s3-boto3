@@ -32,7 +32,7 @@ If the installation was successful, you should be able to run the following comm
 ## Install
 
     $ git clone https://github.com/AkshayRatheesh/Using-...
-    $ cd Using-AWS-Secrets-Manager-with-Py..
+    $ cd push-objects-to-s3-boto3
     $ pip install boto3
 
 ## Configure app
